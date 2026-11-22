@@ -1,0 +1,8 @@
+* text=auto
+
+# keep the launcher's Windows line endings when checked out anywhere
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# images stay binary
+*.png binary
