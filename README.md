@@ -6,6 +6,8 @@ party packages — just Python and a console.
 
 Closest thing to a screenshot: `preview.png`.
 
+<img width="1376" height="775" alt="preview" src="https://github.com/user-attachments/assets/85e98c87-b6be-44fe-9efd-5198b1dba5b3" />
+
 ---
 
 ## Quick start
