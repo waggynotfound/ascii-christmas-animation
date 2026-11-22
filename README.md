@@ -1,4 +1,4 @@
-# Winter Night 🌲❄️
+# Its Christmas Eve! 🌲❄️
 
 An animated Christmas scene that runs entirely inside a terminal window, drawn
 with ASCII characters and 24-bit colour. No images, no video files, no third
